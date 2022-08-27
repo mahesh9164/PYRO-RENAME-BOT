@@ -34,47 +34,42 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/anumitultrabots/53>𝖆𝖓𝖚𝖒𝖎𝖙𝖚𝖑𝖙𝖗𝖆𝖇𝖔𝖙𝖘</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
-├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
-├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://dashboard.heroku.com>𝙷𝙴𝚁𝙾𝙺𝚄</a>
+├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : <a href=https://t.me/File_RenamePro_Bot>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a> 
+├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/MaHi_458>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a> 
+├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 3</a>
+├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
 ├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
 ╰───────────────⍟
                                 """
     HELP_TXT = """
 🌌 <b><u>HOW TO SET THUMBNILE</u></b>
   
-•> /start a bot and send any picture to automatically set thumbnile.
-•> /delthumb use this command and delete your old thumbnile.
-•> /viewthumb use this command view your current thumbnile.
+**•> /start a bot and send any picture to automatically set thumbnile.**
+**•> /delthumb use this command and delete your old thumbnile.**
+**•> /viewthumb use this command view your current thumbnile.**
 
-📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
-•> /set_caption - set a custom caption
-•> /see_caption - see your custom caption
-•> /del_caption - delete custom caption
+**📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>**
+**•> /set_caption - set a custom caption**
+**•> /see_caption - see your custom caption**
+**•> /del_caption - delete custom caption**
 
-Example:- /set_caption 📕 File Name: {filename}
-💾 Size: {filesize}
-⏰ Duration: {duration}
+**Example:- /set_caption 📕 File Name: {filename}**
+**💾 Size: {filesize}**
+**⏰ Duration: {duration}**
 
-✏️ <b><u>HOW TO RENAME A FILE</u></b>
-•> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/anumitultrabots>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Amazon_Prime_Video_Officiall>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/amit4406/PYRO-RENAME-BOT>𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>MoTech Yt</a>
-
-• ❣️ <a href=https://github.com/lntechnical2>𝗟𝗡 𝗧𝗘𝗖𝗛𝗡𝗜𝗖</a>
-• ❣️ <a href=https://t.me/ajak4405>𝖆𝖏𝖆𝖐</a>
-• ❣️ <a href=https://youtu.be/GfulqsSnTv4>𝗠𝗼𝗧𝗲𝗰𝗵 𝗬𝗧</a>
-• ❣️ <a href=https://t.me/ajak4405>𝖆𝖏𝖆𝖐</a>
-• ❣️ <a href=https://t.me/ajak4405>𝖆𝖏𝖆𝖐</a>
+• 𝐑𝐄𝐍𝐀𝐌𝐄 <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+• 𝐑𝐄𝐍𝐀𝐌𝐄 <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+• 𝐑𝐄𝐍𝐀𝐌𝐄 <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+• 𝐑𝐄𝐍𝐀𝐌𝐄 <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+• 𝐑𝐄𝐍𝐀𝐌𝐄 <a href=https://t.me/Amazon_Prime_Video_Officiall>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
 """
